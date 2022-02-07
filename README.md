@@ -1,4 +1,3 @@
-
 Coursera - Kurs Code
 ================
 
@@ -40,6 +39,14 @@ All Episodes
                      <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Code/ThirdVideo.m">code</a><br/><br/></div>
                      <p>In the third video we are dealing with MATLAB as an intelligent calculator, its basic syntax & the Three Magic C's! We will learn how to comment/uncomment existing code and save your
                             precious work in a so called script. Additionally we will briefly talk about the datatypes our variables have. Duration: 17 minutes</p></td>
+    </tr>
+        <tr>
+        <td width="50%"><div align="center">
+                                          <a href="https://www.youtube.com/watch?v=QhtFpSu-QRI">video</a> |
+                                          <a href="https://github.com/jousefm/Mega-Course-MATLAB/blob/master/Homework/Homework1.pdf">homework</a>
+                                          <p>In this video we will have a look at MATLAB's graphical user interface (GUI), the workspace and several other options that the interface offers to us. We will talk a little bit about the Help functionalities
+                                          as well as the documentation of MATLAB. Duration: 12 minutes</p></td>
+        <td width="50%"><a href="https://www.youtube.com/watch?v=QhtFpSu-QRI"><img alt="MATLAB Doc" src="Images/Video2.png"/></td>
     </tr>
   
 </table>
